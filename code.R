@@ -97,6 +97,26 @@ graphs$CORE
 ###### Figure 3
 plotGeneTPM("CHST11", tpm)
 
+#### Gene Set Enrichment Analysis (Figure 4):
+results <- results[order(-results$logFC),]
+
+gene_list <- results$logFC
+
+names(gene_list) <- rownames(results)
+
+
+library(org.Hs.eg.db)
+library(AnnotationDbi)
+library(clusterProfiler)
+gse <- gseGO(gene_list,
+             ont = "BP",
+             keyType = "SYMBOL",
+             OrgDb = "org.Hs.eg.db", 
+             eps = 1e-300)
+
+gseaplot(gse, geneSetID = "GO:0007179", title = "GO:0007179: TGF-beta receptor signaling pathway")
+
+
 ###########################################################################################
 ##### Dataset 2: GSEGSE124180
 ###########################################################################################
