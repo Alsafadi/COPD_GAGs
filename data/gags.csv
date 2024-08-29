@@ -1,0 +1,51 @@
+﻿GAG;function;name;Uniprot;Gene
+CORE;CORE;2-phosphoxylose phosphatase 1;Q8TE99;PXYLP1
+CORE;CORE;Glycosaminoglycan xylosylkinase;O75063;FAM20B
+CORE;CORE;Xylosyltransferase 1;Q86Y38;XYLT1
+CORE;CORE;Xylosyltransferase 2;Q9H1B5;XYLT2
+CORE;CORE;Beta-1,4-galactosyltransferase 7;Q9UBV7;B4GALT7
+CORE;CORE;Beta-1,3-galactosyltransferase 6;Q96L58 ;B3GALT6
+CORE;CORE;Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3;B3GAT3;O94766
+HS;initiation;Exostosin-like 2;Q9UBQ6;EXTL2
+HS;initiation;Exostosin-like 3;O43909;EXTL3
+HS;polymerization;Exostosin-like 1;Q92935;EXTL1
+HS;polymerization;Exostosin-1;Q16394;EXT1
+HS;polymerization;Exostosin-2;Q93063;EXT2
+HS;modification;Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1;P52848;NDST1
+HS;modification;Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 2;P52849;NDST2
+HS;modification;Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 3;O95803;NDST3
+HS;modification;Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 4;Q9H3R1;NDST4
+HS;modification;D-glucuronyl C5-epimerase;O94923;GLCE
+HS;modification;Heparan-sulfate 6-O-sulfotransferase 1;O60243;HS6ST1
+HS;modification;Heparan-sulfate 6-O-sulfotransferase 2;Q96MM7;HS6ST2
+HS;modification;Heparan-sulfate 6-O-sulfotransferase 3;Q8IZP7;HS6ST3
+HS;modification;Heparan sulfate 2-O-sulfotransferase 1;Q7LGA3;HS2ST1
+HS;modification;Heparan sulfate glucosamine 3-O-sulfotransferase 1;O14792;HS3ST1
+HS;modification;Heparan sulfate glucosamine 3-O-sulfotransferase 2;Q9Y278;HS3ST2
+HS;modification;Heparan sulfate glucosamine 3-O-sulfotransferase 3A1;Q9Y663;HS3ST3A1
+HS;modification;Heparan sulfate glucosamine 3-O-sulfotransferase 3B1;Q9Y662;HS3ST3B1
+HS;modification;Heparan sulfate glucosamine 3-O-sulfotransferase 4;Q9Y661;HS3ST4
+HS;modification;Heparan sulfate glucosamine 3-O-sulfotransferase 5;Q8IZT8;HS3ST5
+HS;modification;Heparan sulfate glucosamine 3-O-sulfotransferase 6;Q96QI5;HS3ST6
+CSDS;initiation;Chondroitin sulfate N-acetylgalactosaminyltransferase 1;Q8TDX6;CSGALNACT1
+CSDS;initiation;Chondroitin sulfate N-acetylgalactosaminyltransferase 2;Q8N6G5;CSGALNACT2
+CSDS;polymerization;Chondroitin polymerizing factor;Q8IZ52;CHPF/CHSS2
+CSDS;polymerization;Chondroitin sulfate glucuronyltransferase;Q9P2E5;CHPF2
+CSDS;polymerization;Chondroitin synthase 1;Q86X52;CHSY1
+CSDS;polymerization;Chondroitin synthase 1;Q86X52;CHSS1
+CSDS;polymerization;Chondroitin synthase 2;Q70JA7;CHSY2
+CSDS;polymerization;Chondroitin synthase 1;Q86X52;CHSS3
+CSDS;polymerization;Chondroitin synthase 3 ;Q8N6G5;CHSY2
+CSDS;polymerization;Chondroitin synthase 1;Q86X52;CHPF2
+CSDS;polymerization;Chondroitin GalNAc transferase 1;Q8TDX6;CSGALNACT1
+CSDS;polymerization;Chondroitin GalNAc transferase 2;Q8N6G5;CSGALNACT2
+CSDS;modification;Uronyl 2-O-sulfotransferase;Q9Y2C2;UST
+CSDS;modification;N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase;Q7LFX5;CHST15
+CSDS;modification;Chondroitin 6-O-sulfotransferase 1 ;Q7LGC8;CHST3
+CSDS;modification;Chondroitin 6-O-sulfotransferase 2 ;Q9NS84;CHST7
+CSDS;modification;Chondroitin 4-O-sulfotransferase 1;Q9NPF2;CHST11
+CSDS;modification;Chondroitin 4-O-sulfotransferase 2 ;Q9NRB3;CHST12
+CSDS;modification;Chondroitin 4-O-sulfotransferase 3;Q8NET6;CHST13
+CSDS;modification;Dermatan 4-sulfotransferase 1 ;Q8NCH0;CHST14
+CSDS;modification;Dermatan sulfate epimerase 1;Q9UL01;DSE
+CSDS;modification;Dermatan sulfate epimerase 2;Q8IZU8;DSEL
